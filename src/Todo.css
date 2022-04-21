@@ -1,0 +1,17 @@
+*{
+    padding: 0.5rem 1rem ;
+    margin: 2% 10%;
+    font-size: 1.2rem;
+}
+
+button{
+background-color: white;
+color: black;
+font-size: 1.2rem;
+justify-content: center;
+}
+
+input{
+    border: 0.3rem solid white;
+}
+

@@ -1,0 +1,8 @@
+*{
+    background-color: black;
+    color: white;
+    display: flexbox;
+    flex-direction: column;    
+    justify-content: space-between;
+
+}
